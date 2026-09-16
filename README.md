@@ -5,29 +5,15 @@ description: Path to a free self-taught education in Applied Ethics
 
 ## Introduction
 
-Applied ethics is the practice of analyzing concrete moral problems using the tools of philosophical reasoning. While normative ethics examines what makes actions right or lives good in the abstract, applied ethics tests those principles against difficult real-world dilemmas: medical triage, automated surveillance, corporate whistleblowing, and algorithmic bias. The goal of studying applied ethics is not to adopt a fixed set of answers, but to build a structured way to evaluate conflicting moral claims, identify underlying assumptions, and defend judgments with coherent arguments.
+Applied ethics is the branch of philosophy that takes moral theory and points it at real, contested problems: how a doctor should handle a refusal of treatment, what a company owes to the people affected by its decisions, who is accountable when an algorithm discriminates. Where moral philosophy asks in the abstract what makes actions right, applied ethics supplies the concepts and the working method for analyzing concrete cases — and that method travels far beyond academia. It underlies clinical ethics consultation, compliance and corporate responsibility work, technology governance, and policy analysis, and it sharpens everyday judgment about genuinely hard choices.
 
-This curriculum assumes no prior background in philosophy, formal logic, or professional ethics. It is designed for self-directed learners who want a rigorous, grounded foundation in ethical reasoning. All the open textbooks, lecture series, and primary resources selected here are accessible to general readers without requiring institutional access or instructor guidance.
+This curriculum assumes no prior training in philosophy. It is built for independent study: nearly every resource is free and openly accessible — university open courseware, open-access textbooks, and free online courses — and the few paid items are canonical books retained where no free equivalent matches their quality.
 
-### How the Curriculum Is Organized
+The six subjects are arranged in a deliberate order. The first three — ethical theory, logic and critical reasoning, and the methods of applied ethics — form a sequence and are best worked through in that order: theory gives you the vocabulary of the main normative positions, the reasoning subject trains you to reconstruct and evaluate arguments, and the methods subject teaches the craft of moving from principles to cases. The three subjects that follow are applied domains: bioethics, business and professional ethics, and the ethics of technology and AI. They draw on the same foundations but not on each other, so once the first three are behind you, you can take them in whatever order matches your interests. Bioethics comes first among them because it is where the discipline's case methods matured, but it is not a prerequisite for the rest.
 
-The curriculum is structured in two stages: foundational tools, followed by specific applied domains.
+A practical note on resources: each subject lists several, and you are not expected to complete all of them. A workable pattern is to choose one main resource as your spine for a subject — a full lecture series or a textbook — and treat the others as supplements or second angles on the same material.
 
-The first three subjects provide the shared toolkit needed to analyze moral problems:
-
-- Foundations of Ethical Theory introduces the major normative frameworks — utilitarianism, Kantian deontology, virtue ethics, and contractualism—alongside basic questions about moral objectivity.
-- Logic and Critical Reasoning develops the analytical skills required to identify, reconstruct, and evaluate arguments.
-- Methods and Frameworks in Applied Ethics teaches practical techniques for bridging theory and practice, including principlism, casuistry, reflective equilibrium, and structured decision models.
-
-Because these three subjects establish the concepts and analytical methods that the rest of the curriculum relies on, you should work through them in order before moving forward.
-
-Once the foundations are in place, the remaining three subjects—Bioethics and Medical Ethics, Business and Professional Ethics, and Ethics of Technology and AI — can be studied in any order based on your background or interests. Each domin examines how ethical principles operate within specific institutional, commercial, and technological contexts.
-
-### Scope
-
-This curriculum focuses on the essential core of the discipline: the fundamental normative theories, argument skills, decision frameworks, and three canonical applied domains. It does not attempt to survey every specialized subfield, such as environmental ethics, military ethics, or legal philosophy.
-
-Once you have completed these foundational subjects, you can explore specialized fields in [Advanced Topics](advanced_topics.md) or practice evaluating scenarios using [Projects](projects.md).
+This page covers only the core: the foundational subjects that everyone in the discipline should study before specializing. It deliberately leaves out specialized subfields and reference material. Once you have worked through it, [Advanced Topics](advanced_topics.md) collects the specialization tracks — advanced bioethics, deeper work on AI and business ethics, environmental and climate ethics, and global justice. When you want to stop studying and start producing, [Projects](projects.md) has step-by-step guides for writing case analyses, policy briefs, op-eds, and ethical impact assessments. For deeper literature, turn to [Readings](extras/readings.md); for extended video and audio material, see [Courses](extras/courses.md).
 
 ## Curriculum
 
